@@ -12,6 +12,9 @@ This roadmap is specially prepared for my Iranian mans out there, so if you're n
 ### Disclaimer #3
 Immigration process is very over-whelming so I tried to separate each major step into its own category; for example if you only need some tips for making a sharp resume, you can go inside the resume section and enjoy the tips.
 
+### Disclaimer #4
+This roadmap is designed based on the fact that you want to immigrate using a work visa; so if anyone wants to immigrate using some other type of visa, this roadmap may not be useful to you.
+
 ---
 
 Ok! Jesus! Enough with all the disclaimers already! Let's get down to business.
