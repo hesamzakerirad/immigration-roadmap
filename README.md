@@ -21,12 +21,10 @@ Ok! Jesus! Enough with all the disclaimers already! Let's get down to business.
 
 Here's the list of major steps in an immigration process. (Note that the order is important!)
 
-- [Preparing a resume](#)
-- [Deciding where to go](#)
-- [Looking for a position](#)
-- [Applying for a position](#)
-- [Interview](#)
-- [Final Negotiations](#)
+- [Resume](/Resume/README.md)
+- [Destination](/Destination/README.md)
+- [Interview](/Interview/README.md)
+- [Negotiation](/Negotiation/README.md)
 
 And you're done. You're now a man with a plan or a gal with a plan ;)
 
