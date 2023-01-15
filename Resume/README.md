@@ -3,7 +3,7 @@ It's a no-brainer that a man with a great resume is bound to find a great job.
 
 In all the time I have searched the web, I have found that the simpler the resume the better. 
 
-The key is to put yourself in the shoes of an HR manager or the person responsible for reviewing your resume; will you read 5 pages of nonsense when you have 100 more applications to go through? Nope! Not a chance!
+The key is to put yourself in the shoes of an HR manager or the person responsible for reviewing your resume; will you read 5 pages of nonsense when you have 100 more resumes to go through? Nope! Not a chance!
 
 This is even true for this very document, would you read a 100-page document on immigration? I know I wouldn't! So that's why I'm keeping things short and simple.
 
@@ -23,4 +23,4 @@ I don't think you need anything more than that, but if you insist, I'm going to 
 
 Now that you're done with your resume, it's time to move on to the next section.
 
-Do you know your destination? If so move on to the [interview](/Interview/README.md) section; and if you still haven't figured that out, don't worry, I got you covered. Move on to the [destination](/Destination/README.md) section to get started.
+Do you know where you want to end up? If so move on to the [interview](/Interview/README.md) section; and if you still haven't figured that out, don't worry, I got you covered. Move on to the [destination](/Destination/README.md) section to get started.
