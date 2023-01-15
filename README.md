@@ -4,7 +4,7 @@ Hey there my mans. How you doing? Welcome to this immigration roadmap where we h
 ---
 
 ### Disclaimer #1
-I am no expert on this! Everything you see is the result of me surfing the web for hundereds of hours and searching for good information, so if there's something wrong, do open an issue please.
+I am no expert on this! Everything you see is the result of me surfing the web for hundereds of hours and searching for good information, so if there's something wrong, do [open an issue](https://github.com/hesamzakerirad/immigration-roadmap/issues) please.
 
 ### Disclaimer #2 
 This roadmap is specially prepared for my Iranian mans out there, so if you're not from Iran, some of the information might not be of use to you.
