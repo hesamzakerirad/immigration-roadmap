@@ -1,7 +1,5 @@
 # Resume
-It's a no-brainer that a man with a great resume is bound to find a great job. 
-
-In all the time I have searched the web, I have found that the simpler the resume the better. 
+It's a no-brainer that a man with a great resume is bound to find a great job. In all the time I have searched the web, I have found that the simpler the resume the better. 
 
 The key is to put yourself in the shoes of an HR manager or the person responsible for reviewing your resume; will you read 5 pages of nonsense when you have 100 more resumes to go through? Nope! Not a chance!
 
@@ -14,12 +12,16 @@ For the sake of keeping things short, I'm not going to give you a long list of v
 
 Did you watch it? Cool!
 
+---
+
 I don't think you need anything more than that, but if you insist, I'm going to leave some links down below, so you could to get a bit deeper.
 
 - [Write an Incredible Resume: 5 Golden Rules!
 ](https://www.youtube.com/watch?v=Tt08KmFfIYQ)
 - [How to Write Your Best Resume for Software Engineering Jobs // Tips from an ex-FAANG recruiter
 ](https://www.youtube.com/watch?v=J5gy9iqjwXM)
+
+---
 
 Now that you're done with your resume, it's time to move on to the next section.
 
