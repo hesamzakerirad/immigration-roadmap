@@ -22,6 +22,7 @@ Ok! Jesus! Enough with all the disclaimers already! Let's get down to business.
 Here's the list of major steps in an immigration process. (Note that the order is important!)
 
 - [Resume](/Resume/README.md)
+- [Cover letter](/CoverLetter/README.md)
 - [Destination](/Destination/README.md)
 - [Interview](/Interview/README.md)
 - [Negotiation](/Negotiation/README.md)
