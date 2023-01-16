@@ -23,6 +23,4 @@ I don't think you need anything more than that, but if you insist, I'm going to 
 
 ---
 
-Now that you're done with your resume, it's time to move on to the next section.
-
-Do you know where you want to end up? If so move on to the [interview](/Interview/README.md) section; and if you still haven't figured that out, don't worry, I got you covered. Move on to the [destination](/Destination/README.md) section to get started.
+Now that you're done with your resume, it's time to move on to the next section, which is... you guessed it, [cover letters](/CoverLetter/README.md).
