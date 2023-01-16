@@ -1,7 +1,7 @@
 # Cover Letter
 You may have heard the word "cover letter" in the past and ignored it, it's not going to happen again! 
 
-If you knew the power of a tailored cover letter you wouldn't send another resume without it again!
+If you knew the power of a tailored cover letter, you wouldn't send another resume without it again!
 
 If I want to illustrate it, I could say that a cover letter to a resume is like Bonnie to Clyde! You who they are, don't you? That famous couple who robbed banks together! Their plans wouldn't have worked it either of them weren't present. 
 
