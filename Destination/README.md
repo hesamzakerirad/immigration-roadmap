@@ -74,3 +74,19 @@ For every country that I list down here, I'll leave some YouTube links for to ch
 - [واقعیت های کشور هلند از زبان یک ایرانی (خوبی ها و بدی ها)](https://www.youtube.com/watch?v=LM36s-JCjeI)
 - [تفاوت های فرهنگی عجیب و جالب هلند و ایران](https://www.youtube.com/watch?v=49oOvUitqsw)
 ---
+### 4- Denmark
+
+#### English Content
+
+- [What nobody told you about Denmark...](https://www.youtube.com/watch?v=QQw_kFuzZPM)
+- [The truth about living in Denmark | salary, unemployment benefits, racism, free healthcare](https://www.youtube.com/watch?v=OgA_CQ3XyMU)
+- [7 Things I LOVE About Living in Denmark (as Expat)](https://www.youtube.com/watch?v=jK6hQKvnVDA)
+- [Do NOT Move to Denmark! | 9 Reasons Why a Danish Life Isn't for You](https://www.youtube.com/watch?v=4xMJWIExwgA)
+
+#### Persian Content
+
+- [چالشهاي زندگي در دانمارک](https://www.youtube.com/watch?v=9z9JCR5A_gc)
+- [مهاجرت به دانمارک](https://www.youtube.com/watch?v=_q-_j6zhxx4)
+- [آیا حاضر هستید به کشوری سفر کنید که از قبیله وایکینگ ها به جا مانده است؟ - کشور دانمارک](https://www.youtube.com/watch?v=gMgwchomaHs)
+- [چرا دانمارک رو برای مهاجرت انتخاب کردم / نکات مثبت کشور دانمارک از دیدگاه مهاجرتی](https://www.youtube.com/watch?v=S_W_57xfPlw)
+---
