@@ -137,3 +137,17 @@ For every country that I list down here, I'll leave some YouTube links for to ch
 - [سختی ها و مزایای مهاجرت؟ ایرلند بیایم یا نه؟ جواب سوالتون اینجاست](https://www.youtube.com/watch?v=qYUjqVpZtJg)
 
 ---
+### 8- Belgium
+
+#### English Content
+
+- [Life in Belgium. 5 Pros and 5 Cons.](https://www.youtube.com/watch?v=lD5WQPsRHeE)
+- [5 Things I Wish I Knew Before Moving to Belgium](https://www.youtube.com/watch?v=OKlPfSGUe-k)
+- [Things nobody tells you when you move to BELGIUM! Sharing my best tips for EXPATS living in Belgium](https://www.youtube.com/watch?v=K9RrrcPKNFM)
+- [LIVING IN BELGIUM AS A FOREIGNER](https://www.youtube.com/watch?v=Z7y2OtveTc4)
+
+#### Persian Content
+
+- [زندگی و کار در بلژیک | وضعیت مشاغل در بلژیک | بلژیک](https://www.youtube.com/watch?v=PnppQGBoHIo)
+- [مهاجرت به بلژیک یا گرفتن گواهی نامه در بلژیک؟](https://www.youtube.com/watch?v=GlIdbPO196E)
+---
