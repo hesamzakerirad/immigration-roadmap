@@ -47,7 +47,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 #### Useful Links
 - [Cost of living in Sweden](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Sweden&displayCurrency=EUR)
 - [Average weather in Sweden](https://weatherspark.com/countries/SE)
-
+- [Languages in Sweden](https://www.importanceoflanguages.com/languages-spoken-in-country/#languages-in-sweden)
 ---
 ### 2- Finland
 
@@ -68,6 +68,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 #### Useful Links
 - [Cost of living in Finland](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Finland&displayCurrency=EUR)
 - [Average weather in Finland](https://weatherspark.com/countries/FI)
+- [Languages in Finland](https://www.importanceoflanguages.com/languages-spoken-in-country/#languages-in-finland)
 ---
 ### 3- Netherlands
 
@@ -88,6 +89,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 #### Useful Links
 - [Cost of living in The Netherlands](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Netherlands&displayCurrency=EUR)
 - [Average weather in The Netherlands](https://weatherspark.com/countries/NL)
+- [Languages in The Netherlands](https://www.importanceoflanguages.com/languages-spoken-in-country/#languages-in-netherlands)
 ---
 ### 4- Denmark
 
@@ -108,6 +110,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 #### Useful Links
 - [Cost of living in Denmark](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Denmark&displayCurrency=EUR)
 - [Average weather in Denmark](https://weatherspark.com/countries/DK)
+- [Languages in Denmark](https://www.importanceoflanguages.com/languages-spoken-in-country/#languages-in-denmark)
 ---
 ### 5- Luxembourg
 
@@ -127,6 +130,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 #### Useful Links
 - [Cost of living in Luxembourg](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Luxembourg&displayCurrency=EUR)
 - [Average weather in Luxembourg](https://weatherspark.com/y/150251/Average-Weather-in-Luxembourg-Year-Round)
+- [Languages in Luxembourg](https://www.importanceoflanguages.com/languages-spoken-in-country/#languages-in-luxembourg)
 ---
 ### 6- Germany
 
@@ -147,6 +151,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 #### Useful Links
 - [Cost of living in Germany](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Germany&displayCurrency=EUR)
 - [Average weather in Germany](https://weatherspark.com/countries/DE)
+- [Languages in Germany](https://www.importanceoflanguages.com/languages-spoken-in-country/#languages-in-germany)
 ---
 ### 7- Ireland
 
@@ -166,6 +171,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 #### Useful Links
 - [Cost of living in Ireland](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Ireland&displayCurrency=EUR)
 - [Average weather in Ireland](https://weatherspark.com/countries/IE)
+- [Languages in Ireland](https://www.importanceoflanguages.com/languages-spoken-in-country/#languages-in-ireland)
 
 
 ---
@@ -186,6 +192,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 #### Useful Links
 - [Cost of living in Belgium](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Belgium&displayCurrency=EUR)
 - [Average weather in Belgium](https://weatherspark.com/countries/BE)
+- [Languages in Belgium](https://www.importanceoflanguages.com/languages-spoken-in-country/#languages-in-belgium)
 
 ---
 ### 9- Austria
@@ -209,6 +216,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 #### Useful Links
 - [Cost of living in Austria](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Austria&displayCurrency=EUR)
 - [Average weather in Austria](https://weatherspark.com/countries/AT)
+- [Languages in Austria](https://www.importanceoflanguages.com/languages-spoken-in-country/#languages-in-austria)
 
 --- 
 
