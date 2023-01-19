@@ -23,7 +23,7 @@ So you should now have a few ideas about the places you could choose to live, an
 
 **Note that I have only provided details for countries that are EU members!**
 
-For every country that I list down here, I'll leave some YouTube links for to check.
+For every country that I list down here, I'll leave some YouTube links for you to check.
 
 ---
 ### 1- Sweden
