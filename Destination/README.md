@@ -26,4 +26,19 @@ So you should now have a few ideas about the places you could choose to live, an
 For every country that I list down here, I'll leave some YouTube links for to check.
 
 ---
+### 1- Norway
 
+#### English Content
+
+- [Pros and cons living in Norway as a foreigner | 2022](https://www.youtube.com/watch?v=sBiqZe18tYI)
+- [LIVING IN NORWAY - what it's really like](https://www.youtube.com/watch?v=XwUr5eSRipg)
+- [Is it worth it living in Norway as a foreigner? | 2022](https://www.youtube.com/watch?v=2_iCGQlO32I)
+- [WHAT IT'S REALLY LIKE TO LIVE IN NORWAY - AN AMERICAN ABROAD](https://www.youtube.com/watch?v=mb8xkaTDv2s)
+
+#### Persian Content
+
+- [مزایا و معایب زندگی در نروژ](https://www.youtube.com/watch?v=sOy7MwVCa8U)
+- [تجربه شش ماه زندگی در نروژ](https://www.youtube.com/watch?v=wHwmX7TafxQ)
+- [تنها کشوری هست که اروپا به آن حسادت میکند](https://www.youtube.com/watch?v=fA1lGivEmDs)
+- [نکات مثبت و منفی مهاجرت | مهاجرت به نروژ](youtube.com/watch?v=FnS-nmgJTT0)
+---
