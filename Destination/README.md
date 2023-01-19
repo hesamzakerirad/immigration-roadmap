@@ -198,3 +198,11 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 
 #### Useful Links
 - [Cost of living in Austria](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Austria&displayCurrency=EUR)
+
+--- 
+
+I tried to provide good quality content for you; hope you learned a few things and came close to making a decision. 
+
+Now, if you managed to make your decision, the next step is to find yourself a great job. 
+
+Unfortunately, I cannot help you with that; the process is too personal for me to intervene. With that said, I hope to see you in the [interview](/Interview/README.md) section.
