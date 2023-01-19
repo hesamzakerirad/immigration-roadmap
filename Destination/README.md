@@ -121,3 +121,19 @@ For every country that I list down here, I'll leave some YouTube links for to ch
 - [مشکلات زندگی در آلمان | ۱۵ تا مشکلات زندگی در آلمان](https://www.youtube.com/watch?v=VkgJVe4CD3Q)
 - [آلمان بهشت بَرین یا سراب اروپا؟](https://www.youtube.com/watch?v=vU0hr7gn_dQ)
 ---
+### 7- Ireland
+
+#### English Content
+
+- [What it's like to live in Ireland as an expat | What it's like being an immigrant in Ireland](https://www.youtube.com/watch?v=5k9EO_UbzPc)
+- [Things I Wish I Knew Before Moving to Dublin, Ireland | accommodation, jobs, weather, nightlife, etc](https://www.youtube.com/watch?v=Zvm1e1K9xvg)
+- [Things I wish I knew about Ireland](https://www.youtube.com/watch?v=-XPWOBcxwfE)
+- [Moving and living in Ireland (as a foreigner)](https://www.youtube.com/watch?v=O6lmJ3RIhM4)
+
+#### Persian Content
+
+- [بدترین بدی ها و خوب ترین خوبی های ایرلند چیا هستن؟ مزایا و معایب زندگی در ایرلند](https://www.youtube.com/watch?v=LakVMIxOWyY)
+- [مهاجرت به ایرلند، کار، هزینه زندگی، فرصت های شغلی ، ویزا، شرایط جغرافیایی، زبان و فرهنگ ایرلند](https://www.youtube.com/watch?v=oeHOPBzWoTo)
+- [سختی ها و مزایای مهاجرت؟ ایرلند بیایم یا نه؟ جواب سوالتون اینجاست](https://www.youtube.com/watch?v=qYUjqVpZtJg)
+
+---
