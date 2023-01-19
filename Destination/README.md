@@ -42,3 +42,19 @@ For every country that I list down here, I'll leave some YouTube links for to ch
 - [سختی های زندگی و مهاجرت به سوئد](https://www.youtube.com/watch?v=s1ne_C-TayI)
 - [چرا به سوئد مهاجرت کنیم؟ مهاجرت به سوئد، زندگی در سوئد](https://www.youtube.com/watch?v=4zb2aDyqolg)
 ---
+### 2- Finland
+
+#### English Content
+
+- [LIVING IN FINLAND: REALITY VS EXPECTATIONS](https://www.youtube.com/watch?v=0p5zcwgi4I4)
+- [3 YEARS of living in Finland. Here is what I think...](https://www.youtube.com/watch?v=AKYmvziQP5s)
+- [EVERYTHING YOU NEED TO KNOW BEFORE MOVING TO FINLAND!](https://www.youtube.com/watch?v=o1GfsuYmamc)
+- [Life in Finland: Pros and cons (Expat's Opinion)](https://www.youtube.com/watch?v=Xgk-1Qpv8Do)
+
+#### Persian Content
+
+- [مهاجرت به فنلاند: صفر تا صد زندگی در فنلاند از زبان یک ایرانی (نکات مثبت و منفی)](https://www.youtube.com/watch?v=cM7-MBlTJLw)
+- [مهم‌ترین ویژگی‌های فنلاند که بهتره بدونین و بعد اقدام کنین](https://www.youtube.com/watch?v=579xQ5rWGxM)
+- [!قبل از مهاجرت به فنلاند این ویدیو رو ببین! ضرر نمی کنی](https://www.youtube.com/watch?v=pqxNeiSFtFs)
+- [خوبی ها و بدی های کشور فنلاند](https://www.youtube.com/watch?v=t-au_twM1r0)
+---
