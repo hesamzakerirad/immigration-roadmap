@@ -41,6 +41,10 @@ For every country that I list down here, I'll leave some YouTube links for you t
 - [تجربیات من پس از ۷ ماه مهاجرت به سوئد](https://www.youtube.com/watch?v=dx5GtNygBz0)
 - [سختی های زندگی و مهاجرت به سوئد](https://www.youtube.com/watch?v=s1ne_C-TayI)
 - [چرا به سوئد مهاجرت کنیم؟ مهاجرت به سوئد، زندگی در سوئد](https://www.youtube.com/watch?v=4zb2aDyqolg)
+
+#### Useful Links
+- [Cost of living in Sweden](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Sweden&displayCurrency=EUR)
+
 ---
 ### 2- Finland
 
@@ -57,6 +61,9 @@ For every country that I list down here, I'll leave some YouTube links for you t
 - [مهم‌ترین ویژگی‌های فنلاند که بهتره بدونین و بعد اقدام کنین](https://www.youtube.com/watch?v=579xQ5rWGxM)
 - [!قبل از مهاجرت به فنلاند این ویدیو رو ببین! ضرر نمی کنی](https://www.youtube.com/watch?v=pqxNeiSFtFs)
 - [خوبی ها و بدی های کشور فنلاند](https://www.youtube.com/watch?v=t-au_twM1r0)
+
+#### Useful Links
+- [Cost of living in Finland](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Finland&displayCurrency=EUR)
 ---
 ### 3- Netherlands
 
@@ -73,6 +80,9 @@ For every country that I list down here, I'll leave some YouTube links for you t
 - [مهاجرت کاری به هلند، واقعا می‌ارزه؟ (معرفی، بهترین شهر، حقوق، مرخصی، هزینه زندگی، اجاره و خرید خانه)](https://www.youtube.com/watch?v=nGDuXS0maPU)
 - [واقعیت های کشور هلند از زبان یک ایرانی (خوبی ها و بدی ها)](https://www.youtube.com/watch?v=LM36s-JCjeI)
 - [تفاوت های فرهنگی عجیب و جالب هلند و ایران](https://www.youtube.com/watch?v=49oOvUitqsw)
+
+#### Useful Links
+- [Cost of living in The Netherlands](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Netherlands&displayCurrency=EUR)
 ---
 ### 4- Denmark
 
@@ -89,6 +99,9 @@ For every country that I list down here, I'll leave some YouTube links for you t
 - [مهاجرت به دانمارک](https://www.youtube.com/watch?v=_q-_j6zhxx4)
 - [آیا حاضر هستید به کشوری سفر کنید که از قبیله وایکینگ ها به جا مانده است؟ - کشور دانمارک](https://www.youtube.com/watch?v=gMgwchomaHs)
 - [چرا دانمارک رو برای مهاجرت انتخاب کردم / نکات مثبت کشور دانمارک از دیدگاه مهاجرتی](https://www.youtube.com/watch?v=S_W_57xfPlw)
+
+#### Useful Links
+- [Cost of living in Denmark](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Denmark&displayCurrency=EUR)
 ---
 ### 5- Luxembourg
 
@@ -104,6 +117,9 @@ For every country that I list down here, I'll leave some YouTube links for you t
 - [مهاجرت به لوکزامبورگ](https://www.youtube.com/watch?v=GeSPEoQvbhI)
 - [آنچه درباره کشور لوکزامبورگ نمی دانید](https://www.youtube.com/watch?v=sfWunrbBNIg)
 - [دانستنی و حقایق فوق العاده جالب کشور لوکزامبورگ](https://www.youtube.com/watch?v=AojX-OA-BUg)
+
+#### Useful Links
+- [Cost of living in Luxembourg](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Luxembourg&displayCurrency=EUR)
 ---
 ### 6- Germany
 
@@ -120,6 +136,9 @@ For every country that I list down here, I'll leave some YouTube links for you t
 - [بعد دوسال زندگی تفکراتم نسبت به آلمان عوض شد](https://www.youtube.com/watch?v=7ofkv2JzXwI)
 - [مشکلات زندگی در آلمان | ۱۵ تا مشکلات زندگی در آلمان](https://www.youtube.com/watch?v=VkgJVe4CD3Q)
 - [آلمان بهشت بَرین یا سراب اروپا؟](https://www.youtube.com/watch?v=vU0hr7gn_dQ)
+
+#### Useful Links
+- [Cost of living in Germany](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Germany&displayCurrency=EUR)
 ---
 ### 7- Ireland
 
@@ -136,6 +155,9 @@ For every country that I list down here, I'll leave some YouTube links for you t
 - [مهاجرت به ایرلند، کار، هزینه زندگی، فرصت های شغلی ، ویزا، شرایط جغرافیایی، زبان و فرهنگ ایرلند](https://www.youtube.com/watch?v=oeHOPBzWoTo)
 - [سختی ها و مزایای مهاجرت؟ ایرلند بیایم یا نه؟ جواب سوالتون اینجاست](https://www.youtube.com/watch?v=qYUjqVpZtJg)
 
+#### Useful Links
+- [Cost of living in Ireland](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Ireland&displayCurrency=EUR)
+
 ---
 ### 8- Belgium
 
@@ -150,4 +172,7 @@ For every country that I list down here, I'll leave some YouTube links for you t
 
 - [زندگی و کار در بلژیک | وضعیت مشاغل در بلژیک | بلژیک](https://www.youtube.com/watch?v=PnppQGBoHIo)
 - [مهاجرت به بلژیک یا گرفتن گواهی نامه در بلژیک؟](https://www.youtube.com/watch?v=GlIdbPO196E)
+
+#### Useful Links
+- [Cost of living in Belgium](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Belgium&displayCurrency=EUR)
 ---
