@@ -58,3 +58,19 @@ For every country that I list down here, I'll leave some YouTube links for to ch
 - [!قبل از مهاجرت به فنلاند این ویدیو رو ببین! ضرر نمی کنی](https://www.youtube.com/watch?v=pqxNeiSFtFs)
 - [خوبی ها و بدی های کشور فنلاند](https://www.youtube.com/watch?v=t-au_twM1r0)
 ---
+### 3- Netherlands
+
+#### English Content
+
+- [We moved from the US to Rotterdam Netherlands, what's the difference?](https://www.youtube.com/playlist?list=PLuPXkokkiqcQLR2By1V0QUhR_sxS4Yy4F) (This is a playlist.)
+- [LIVING IN THE NETHERLANDS FOR 1 YEAR | Things You Should Know!](https://www.youtube.com/watch?v=d_xh1M8VMg8)
+- [What Do Foreigners Think about Life in the Netherlands?](https://www.youtube.com/watch?v=CS2jMB8gbPE)
+- [Living in The Netherlands – The Pros and Cons](https://www.youtube.com/watch?v=DKtp8qkUaYs)
+
+#### Persian Content
+
+- [خوبی های زندگی در هلند](https://www.youtube.com/watch?v=YH9BIYCtDZQ)
+- [مهاجرت کاری به هلند، واقعا می‌ارزه؟ (معرفی، بهترین شهر، حقوق، مرخصی، هزینه زندگی، اجاره و خرید خانه)](https://www.youtube.com/watch?v=nGDuXS0maPU)
+- [واقعیت های کشور هلند از زبان یک ایرانی (خوبی ها و بدی ها)](https://www.youtube.com/watch?v=LM36s-JCjeI)
+- [تفاوت های فرهنگی عجیب و جالب هلند و ایران](https://www.youtube.com/watch?v=49oOvUitqsw)
+---
