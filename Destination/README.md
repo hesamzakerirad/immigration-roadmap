@@ -105,3 +105,19 @@ For every country that I list down here, I'll leave some YouTube links for to ch
 - [آنچه درباره کشور لوکزامبورگ نمی دانید](https://www.youtube.com/watch?v=sfWunrbBNIg)
 - [دانستنی و حقایق فوق العاده جالب کشور لوکزامبورگ](https://www.youtube.com/watch?v=AojX-OA-BUg)
 ---
+### 6- Germany
+
+#### English Content
+
+- [LIVING IN GERMANY FOR A YEAR | CHALLENGES in the first year as a foreigner in Deutschland](https://www.youtube.com/watch?v=6tBT4XjLNhk)
+- [Why I'm Not Moving Back to the US After Living in Germany for Over 4 Years](https://www.youtube.com/watch?v=G9wCvZ-jPgs)
+- [THE WORST PART ABOUT LIVING IN GERMANY | GERMANS WILL NEVER UNDERSTAND THIS](https://www.youtube.com/watch?v=ZqDcGdAEHdM)
+- [Two Years : Life in Germany as a Foreigner.](https://www.youtube.com/watch?v=1WAGnZ13vwY)
+
+#### Persian Content
+
+- [از بردگی در ایران تا زندگی در آلمان](https://www.youtube.com/watch?v=JhfQkXih1Xo)
+- [بعد دوسال زندگی تفکراتم نسبت به آلمان عوض شد](https://www.youtube.com/watch?v=7ofkv2JzXwI)
+- [مشکلات زندگی در آلمان | ۱۵ تا مشکلات زندگی در آلمان](https://www.youtube.com/watch?v=VkgJVe4CD3Q)
+- [آلمان بهشت بَرین یا سراب اروپا؟](https://www.youtube.com/watch?v=vU0hr7gn_dQ)
+---
