@@ -50,6 +50,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 - [Average software developer salary in Sweden](https://www.payscale.com/research/SE/Job=Software_Developer/Salary)
 
 #### Useful Stats
+- Swedan's population is around 10.5 million as of 2022.
 - Roughly 89% of people speak English in Sweden.
 ---
 ### 2- Finland
@@ -74,6 +75,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 - [Average software developer salary in Finland](https://www.payscale.com/research/FI/Job=Software_Developer/Salary)
 
 #### Useful Stats
+- Finland's population is around 5.5 million as of 2022.
 - Roughly 75% of people speak English in Finland.
 ---
 ### 3- Netherlands
@@ -98,6 +100,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 - [Average software developer salary in The Netherlands](https://www.payscale.com/research/NL/Job=Software_Developer/Salary)
 
 #### Useful Stats
+- The Netherlands' population is around 17.5 million as of 2022.
 - Roughly 90% of people speak English in The Netherlands.
 ---
 ### 4- Denmark
@@ -122,6 +125,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 - [Average software developer salary in Denmark](https://www.payscale.com/research/DK/Job=Software_Developer/Salary)
 
 #### Useful Stats
+- Denmark's population is around 5.8 million as of 2022.
 - Roughly 86% of people speak English in Denmark.
 ---
 ### 5- Luxembourg
@@ -145,6 +149,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 - [Average software developer salary in Luxembourg](https://www.payscale.com/research/LU/Job=Software_Developer/Salary)
 
 #### Useful Stats
+- Luxembourg's population is around 0.65 million as of 2022.
 - Roughly 56% of people speak English in Luxembourg.
 ---
 ### 6- Germany
@@ -169,6 +174,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 - [Average software developer salary in Germany](https://www.payscale.com/research/DE/Job=Software_Developer/Salary)
 
 #### Useful Stats
+- Germany's population is around 84.3 million as of 2022.
 - Roughly 56% of people speak English in Germany.
 ---
 ### 7- Ireland
@@ -192,6 +198,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 - [Average software developer salary in Ireland](https://www.payscale.com/research/IE/Job=Software_Developer/Salary)
 
 #### Useful Stats
+- Ireland's population is around 5.1 million as of 2022.
 - Roughly 98% of people speak English in Ireland.
 ---
 ### 8- Belgium
@@ -214,6 +221,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 - [Average software developer salary in Belgium](https://www.payscale.com/research/BE/Job=Software_Developer/Salary)
 
 #### Useful Stats
+- Belgium's population is around 11.6 million as of 2022.
 - Roughly 60% of people speak English in Belgium.
 
 ---
@@ -241,6 +249,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 - [Average software developer salary in Austria](https://www.payscale.com/research/AT/Job=Software_Developer/Salary)
 
 #### Useful Stats
+- Austria's population is around 8.9 million as of 2022.
 - Roughly 73% of people speak English in Austria.
 --- 
 
