@@ -47,6 +47,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 #### Useful Links
 - [Cost of living in Sweden](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Sweden&displayCurrency=EUR)
 - [Average weather in Sweden](https://weatherspark.com/countries/SE)
+- [Average software developer salary in Sweden](https://www.payscale.com/research/SE/Job=Software_Developer/Salary)
 
 #### Useful Stats
 - Roughly 89% of people speak English in Sweden.
@@ -70,6 +71,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 #### Useful Links
 - [Cost of living in Finland](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Finland&displayCurrency=EUR)
 - [Average weather in Finland](https://weatherspark.com/countries/FI)
+- [Average software developer salary in Finland](https://www.payscale.com/research/FI/Job=Software_Developer/Salary)
 
 #### Useful Stats
 - Roughly 75% of people speak English in Finland.
@@ -93,6 +95,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 #### Useful Links
 - [Cost of living in The Netherlands](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Netherlands&displayCurrency=EUR)
 - [Average weather in The Netherlands](https://weatherspark.com/countries/NL)
+- [Average software developer salary in The Netherlands](https://www.payscale.com/research/NL/Job=Software_Developer/Salary)
 
 #### Useful Stats
 - Roughly 90% of people speak English in The Netherlands.
@@ -116,6 +119,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 #### Useful Links
 - [Cost of living in Denmark](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Denmark&displayCurrency=EUR)
 - [Average weather in Denmark](https://weatherspark.com/countries/DK)
+- [Average software developer salary in Denmark](https://www.payscale.com/research/DK/Job=Software_Developer/Salary)
 
 #### Useful Stats
 - Roughly 86% of people speak English in Denmark.
@@ -138,6 +142,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 #### Useful Links
 - [Cost of living in Luxembourg](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Luxembourg&displayCurrency=EUR)
 - [Average weather in Luxembourg](https://weatherspark.com/y/150251/Average-Weather-in-Luxembourg-Year-Round)
+- [Average software developer salary in Luxembourg](https://www.payscale.com/research/LU/Job=Software_Developer/Salary)
 
 #### Useful Stats
 - Roughly 56% of people speak English in Luxembourg.
@@ -161,6 +166,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 #### Useful Links
 - [Cost of living in Germany](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Germany&displayCurrency=EUR)
 - [Average weather in Germany](https://weatherspark.com/countries/DE)
+- [Average software developer salary in Germany](https://www.payscale.com/research/DE/Job=Software_Developer/Salary)
 
 #### Useful Stats
 - Roughly 56% of people speak English in Germany.
@@ -183,6 +189,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 #### Useful Links
 - [Cost of living in Ireland](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Ireland&displayCurrency=EUR)
 - [Average weather in Ireland](https://weatherspark.com/countries/IE)
+- [Average software developer salary in Ireland](https://www.payscale.com/research/IE/Job=Software_Developer/Salary)
 
 #### Useful Stats
 - Roughly 98% of people speak English in Ireland.
@@ -204,6 +211,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 #### Useful Links
 - [Cost of living in Belgium](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Belgium&displayCurrency=EUR)
 - [Average weather in Belgium](https://weatherspark.com/countries/BE)
+- [Average software developer salary in Belgium](https://www.payscale.com/research/BE/Job=Software_Developer/Salary)
 
 #### Useful Stats
 - Roughly 60% of people speak English in Belgium.
@@ -230,6 +238,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 #### Useful Links
 - [Cost of living in Austria](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Austria&displayCurrency=EUR)
 - [Average weather in Austria](https://weatherspark.com/countries/AT)
+- [Average software developer salary in Austria](https://www.payscale.com/research/AT/Job=Software_Developer/Salary)
 
 #### Useful Stats
 - Roughly 73% of people speak English in Austria.
