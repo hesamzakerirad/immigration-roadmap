@@ -39,10 +39,11 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 
 #### Persian Content
 
-- [سوئد، امکانات این کشور را حتی نمی توانید باور کنید ، بهشتی برای زندگی](https://www.youtube.com/watch?v=IhgY1Norqbg)
+- [خوبی های کشور سوئد | صفر تا صد](https://www.youtube.com/watch?v=ieGAXQveWOc)
+- [ده تا از بدترین و منفی ترین ویژگی های سوئد که خیلی رو مخه](https://www.youtube.com/watch?v=yov2e9lMbZc)
 - [تجربیات من پس از ۷ ماه مهاجرت به سوئد](https://www.youtube.com/watch?v=dx5GtNygBz0)
 - [سختی های زندگی و مهاجرت به سوئد](https://www.youtube.com/watch?v=s1ne_C-TayI)
-- [چرا به سوئد مهاجرت کنیم؟ مهاجرت به سوئد، زندگی در سوئد](https://www.youtube.com/watch?v=4zb2aDyqolg)
+- [سوئد، امکانات این کشور را حتی نمی توانید باور کنید ، بهشتی برای زندگی](https://www.youtube.com/watch?v=IhgY1Norqbg)
 
 #### Useful Links
 - [Cost of living in Sweden](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Sweden&displayCurrency=EUR)
