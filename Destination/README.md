@@ -54,6 +54,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 - Swedan's population is around 10.5 million as of 2022.
 - Roughly 89% of people speak English in Sweden.
 - Since 2015, an average of 110k people have immigrated to Sweden every year. ([See Reference](https://stats.oecd.org/Index.aspx?DataSetCode=MIG))
+- According to [this](https://en.wikipedia.org/wiki/Religion_in_Sweden) page, 55% of people are Christians in Sweden.
 ---
 ### 2- Finland
 
@@ -80,6 +81,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 - Finland's population is around 5.5 million as of 2022.
 - Roughly 75% of people speak English in Finland.
 - Since 2015, an average of 23k people have immigrated to Finland every year. ([See Reference](https://stats.oecd.org/Index.aspx?DataSetCode=MIG))
+- According to [this](https://en.wikipedia.org/wiki/Religion_in_Finland) page, 66% of people are Christians in Finland.
 ---
 ### 3- Netherlands
 
@@ -106,6 +108,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 - The Netherlands' population is around 17.5 million as of 2022.
 - Roughly 90% of people speak English in The Netherlands.
 - Since 2015, an average of 183k people have immigrated to The Netherlands every year. ([See Reference](https://stats.oecd.org/Index.aspx?DataSetCode=MIG))
+- According to [this](https://en.wikipedia.org/wiki/Religion_in_the_Netherlands) page, 57% of people don't believe in any religion in The Netherlands.
 ---
 ### 4- Denmark
 
@@ -132,6 +135,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 - Denmark's population is around 5.8 million as of 2022.
 - Roughly 86% of people speak English in Denmark.
 - Since 2015, an average of 47k people have immigrated to Denmark every year. ([See Reference](https://stats.oecd.org/Index.aspx?DataSetCode=MIG))
+- According to [this](https://en.wikipedia.org/wiki/Religion_in_Denmark) page, 74% of people are Christians in Denmark.
 ---
 ### 5- Luxembourg
 
@@ -157,6 +161,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 - Luxembourg's population is around 0.65 million as of 2022.
 - Roughly 56% of people speak English in Luxembourg.
 - Since 2015, an average of 22k people have immigrated to Luxembourg every year. ([See Reference](https://stats.oecd.org/Index.aspx?DataSetCode=MIG))
+- According to [this](https://en.wikipedia.org/wiki/Religion_in_Luxembourg) page, 54% of people are Christians (Catholics) in Luxembourg.
 ---
 ### 6- Germany
 
@@ -183,6 +188,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 - Germany's population is around 84.3 million as of 2022.
 - Roughly 56% of people speak English in Germany.
 - Since 2015, an average of 1.4m people have immigrated to Germany every year. ([See Reference](https://stats.oecd.org/Index.aspx?DataSetCode=MIG))
+- According to [this](https://en.wikipedia.org/wiki/Religion_in_Germany) page, 52% of people are Christians in Germany.
 ---
 ### 7- Ireland
 
@@ -208,6 +214,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 - Ireland's population is around 5.1 million as of 2022.
 - Roughly 98% of people speak English in Ireland.
 - Since 2015, an average of 56k people have immigrated to Ireland every year. ([See Reference](https://stats.oecd.org/Index.aspx?DataSetCode=MIG))
+- According to [this](https://en.wikipedia.org/wiki/Religion_in_the_Republic_of_Ireland) page, 77% of people are Christians (Catholics) in Ireland.
 ---
 ### 8- Belgium
 
@@ -232,7 +239,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 - Belgium's population is around 11.6 million as of 2022.
 - Roughly 60% of people speak English in Belgium.
 - Since 2015, an average of 115k people have immigrated to Belgium every year. ([See Reference](https://stats.oecd.org/Index.aspx?DataSetCode=MIG))
-
+- According to [this](https://en.wikipedia.org/wiki/Religion_in_Belgium) page, 54% of people are Christians (Catholics) in Belgium.
 ---
 ### 9- Austria
 
@@ -261,6 +268,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 - Austria's population is around 8.9 million as of 2022.
 - Roughly 73% of people speak English in Austria.
 - Since 2015, an average of 147k people have immigrated to Austria every year. ([See Reference](https://stats.oecd.org/Index.aspx?DataSetCode=MIG))
+- According to [this](https://en.wikipedia.org/wiki/Religion_in_Austria) page, 55% of people are Christians (Catholics) in Austria.
 --- 
 
 I tried to provide good quality content for you; hope you learned a few things and came close to making a decision. 
