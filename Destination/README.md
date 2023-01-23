@@ -52,7 +52,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 
 #### Useful Stats
 - Swedan's population is around 10.5 million as of 2022.
-- Based on the information on [worldometers](https://www.worldometers.info/world-population/sweden-population), the population density in Sweden is 25 poeple per km2.
+- Based on the information on [worldometers](https://www.worldometers.info/world-population/sweden-population), the population density in Sweden is 25 people per km2.
 - Roughly 89% of people speak English in Sweden.
 - Since 2015, an average of 110k people have immigrated to Sweden every year. ([See Reference](https://stats.oecd.org/Index.aspx?DataSetCode=MIG))
 - According to [this](https://en.wikipedia.org/wiki/Religion_in_Sweden) page, 55% of people are Christians in Sweden.
@@ -81,7 +81,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 
 #### Useful Stats
 - Finland's population is around 5.5 million as of 2022.
-- Based on the information on [worldometers](https://www.worldometers.info/world-population/finland-population), the population density in Finland is 18 poeple per km2.
+- Based on the information on [worldometers](https://www.worldometers.info/world-population/finland-population), the population density in Finland is 18 people per km2.
 - Roughly 75% of people speak English in Finland.
 - Since 2015, an average of 23k people have immigrated to Finland every year. ([See Reference](https://stats.oecd.org/Index.aspx?DataSetCode=MIG))
 - According to [this](https://en.wikipedia.org/wiki/Religion_in_Finland) page, 66% of people are Christians in Finland.
@@ -110,7 +110,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 
 #### Useful Stats
 - The Netherlands' population is around 17.5 million as of 2022.
-- Based on the information on [worldometers](https://www.worldometers.info/world-population/netherlands-population), the population density in The Netherlands is 508 poeple per km2.
+- Based on the information on [worldometers](https://www.worldometers.info/world-population/netherlands-population), the population density in The Netherlands is 508 people per km2.
 - Roughly 90% of people speak English in The Netherlands.
 - Since 2015, an average of 183k people have immigrated to The Netherlands every year. ([See Reference](https://stats.oecd.org/Index.aspx?DataSetCode=MIG))
 - According to [this](https://en.wikipedia.org/wiki/Religion_in_the_Netherlands) page, 57% of people don't believe in any religion in The Netherlands.
@@ -139,7 +139,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 
 #### Useful Stats
 - Denmark's population is around 5.8 million as of 2022.
-- Based on the information on [worldometers](https://www.worldometers.info/world-population/denmark-population), the population density in Denmark is 137 poeple per km2.
+- Based on the information on [worldometers](https://www.worldometers.info/world-population/denmark-population), the population density in Denmark is 137 people per km2.
 - Roughly 86% of people speak English in Denmark.
 - Since 2015, an average of 47k people have immigrated to Denmark every year. ([See Reference](https://stats.oecd.org/Index.aspx?DataSetCode=MIG))
 - According to [this](https://en.wikipedia.org/wiki/Religion_in_Denmark) page, 74% of people are Christians in Denmark.
@@ -167,7 +167,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 
 #### Useful Stats
 - Luxembourg's population is around 0.65 million as of 2022.
-- Based on the information on [worldometers](https://www.worldometers.info/world-population/luxembourg-population), the population density in Luxembourg is 242 poeple per km2.
+- Based on the information on [worldometers](https://www.worldometers.info/world-population/luxembourg-population), the population density in Luxembourg is 242 people per km2.
 - Roughly 56% of people speak English in Luxembourg.
 - Since 2015, an average of 22k people have immigrated to Luxembourg every year. ([See Reference](https://stats.oecd.org/Index.aspx?DataSetCode=MIG))
 - According to [this](https://en.wikipedia.org/wiki/Religion_in_Luxembourg) page, 54% of people are Christians (Catholics) in Luxembourg.
@@ -196,7 +196,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 
 #### Useful Stats
 - Germany's population is around 84.3 million as of 2022.
-- Based on the information on [worldometers](https://www.worldometers.info/world-population/germany-population), the population density in Germany is 240 poeple per km2.
+- Based on the information on [worldometers](https://www.worldometers.info/world-population/germany-population), the population density in Germany is 240 people per km2.
 - Roughly 56% of people speak English in Germany.
 - Since 2015, an average of 1.4m people have immigrated to Germany every year. ([See Reference](https://stats.oecd.org/Index.aspx?DataSetCode=MIG))
 - According to [this](https://en.wikipedia.org/wiki/Religion_in_Germany) page, 52% of people are Christians in Germany.
@@ -224,7 +224,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 
 #### Useful Stats
 - Ireland's population is around 5.1 million as of 2022.
-- Based on the information on [worldometers](https://www.worldometers.info/world-population/ireland-population), the population density in Ireland is 72 poeple per km2.
+- Based on the information on [worldometers](https://www.worldometers.info/world-population/ireland-population), the population density in Ireland is 72 people per km2.
 - Roughly 98% of people speak English in Ireland.
 - Since 2015, an average of 56k people have immigrated to Ireland every year. ([See Reference](https://stats.oecd.org/Index.aspx?DataSetCode=MIG))
 - According to [this](https://en.wikipedia.org/wiki/Religion_in_the_Republic_of_Ireland) page, 77% of people are Christians (Catholics) in Ireland.
@@ -251,7 +251,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 
 #### Useful Stats
 - Belgium's population is around 11.6 million as of 2022.
-- Based on the information on [worldometers](https://www.worldometers.info/world-population/belgium-population), the population density in Belgium is 383 poeple per km2.
+- Based on the information on [worldometers](https://www.worldometers.info/world-population/belgium-population), the population density in Belgium is 383 people per km2.
 - Roughly 60% of people speak English in Belgium.
 - Since 2015, an average of 115k people have immigrated to Belgium every year. ([See Reference](https://stats.oecd.org/Index.aspx?DataSetCode=MIG))
 - According to [this](https://en.wikipedia.org/wiki/Religion_in_Belgium) page, 54% of people are Christians (Catholics) in Belgium.
@@ -282,7 +282,7 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 
 #### Useful Stats
 - Austria's population is around 8.9 million as of 2022.
-- Based on the information on [worldometers](https://www.worldometers.info/world-population/austria-population), the population density in Austria is 109 poeple per km2.
+- Based on the information on [worldometers](https://www.worldometers.info/world-population/austria-population), the population density in Austria is 109 people per km2.
 - Roughly 73% of people speak English in Austria.
 - Since 2015, an average of 147k people have immigrated to Austria every year. ([See Reference](https://stats.oecd.org/Index.aspx?DataSetCode=MIG))
 - According to [this](https://en.wikipedia.org/wiki/Religion_in_Austria) page, 55% of people are Christians (Catholics) in Austria.
