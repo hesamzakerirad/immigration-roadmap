@@ -21,7 +21,7 @@ So you should now have a few ideas about the places you could choose to live, an
 
 ---
 
-**<p align="center">Note that I have only provided details for countries that are EU members!</p>**
+**<p align="center">Note that I have only listed EU member countries!</p>**
 
 ---
 
