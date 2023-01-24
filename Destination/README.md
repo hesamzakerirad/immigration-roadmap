@@ -2,7 +2,9 @@
 If you've reached to this step, it means that you have completed [resume](/Resume/README.md) and [cover letter](/CoverLetter/README.md) section; if not, please make sure you read them first, before continuing this section.
 
 ---
+
 Ok. This is where we decide where we want to go and make a decent living for ourselves. There are a lot of factors in play that could easily over-whelm us; and this is the reason I came up with a simple system to help us think clearly and make a good decision.
+
 --- 
 
 The first thing any one of us should consider, is the quality of life among the top countries in the world, and this is where [OECD Better Life Index](https://www.oecdbetterlifeindex.org/#/55555555555) comes into play. 
@@ -18,12 +20,15 @@ By looking at this picture, you can see that I have already tweaked the indexes 
 So you should now have a few ideas about the places you could choose to live, and I assume that they might be among the top 10 countries on the list, and those are the ones we're going to check. 
 
 ---
+
 **Note that I have only provided details for countries that are EU members!**
 
 For every country listed down here, I'll leave some YouTube links for you to check.
 
 I tried to provide links in an unbiased manner so you could see both pros and cons of every country and make an informed decision.
+
 ---
+
 - [Sweden](/Destination/Sweden/README.md)
 - [Finland](/Destination/Finland/README.md)
 - [The Netherlands](/Destination/Netherlands/README.md)
@@ -33,7 +38,9 @@ I tried to provide links in an unbiased manner so you could see both pros and co
 - [Ireland](/Destination/Ireland/README.md)
 - [Belgium](/Destination/Belgium/README.md)
 - [Austria](/Destination/Austria/README.md)
+
 --- 
+
 I tried to provide good quality content for you; hope you learned a few things and came close to making a decision. 
 
 Now, if you managed to make your decision, the next step is to find yourself a great job. 
