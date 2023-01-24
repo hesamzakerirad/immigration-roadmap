@@ -21,19 +21,19 @@ So you should now have a few ideas about the places you could choose to live, an
 
 ---
 
-**Note that I have only provided details for countries that are EU members!**
+**<p align="center">Note that I have only provided details for countries that are EU members!</p>**
 
 ---
 
-- [Sweden](/Destination/Sweden/README.md)
-- [Finland](/Destination/Finland/README.md)
-- [The Netherlands](/Destination/Netherlands/README.md)
-- [Denmark](/Destination/Denmark/README.md)
-- [Luxembourg](/Destination/Luxembourg/README.md)
-- [Germany](/Destination/Germany/README.md)
-- [Ireland](/Destination/Ireland/README.md)
-- [Belgium](/Destination/Belgium/README.md)
-- [Austria](/Destination/Austria/README.md)
+1. [Sweden](/Destination/Sweden/README.md)
+2. [Finland](/Destination/Finland/README.md)
+3. [The Netherlands](/Destination/Netherlands/README.md)
+4. [Denmark](/Destination/Denmark/README.md)
+5. [Luxembourg](/Destination/Luxembourg/README.md)
+6. [Germany](/Destination/Germany/README.md)
+7. [Ireland](/Destination/Ireland/README.md)
+8. [Belgium](/Destination/Belgium/README.md)
+9. [Austria](/Destination/Austria/README.md)
 
 --- 
 
